@@ -8,3 +8,4 @@ import "./Signup.test.js";
 import "./NoteListItem.test.js";
 import "./NoteListHeader.test.js";
 import "./NoteList.test.js";
+import "./Editor.test.js";
