@@ -1,3 +1,3 @@
-# Meteor Boilerplate Project
+# Notes
 
-This includes a basic react and authorization set.
+Notes webapp
