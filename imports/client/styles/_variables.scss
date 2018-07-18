@@ -40,9 +40,7 @@ $header-color: white;
 $header-height: 6rem;
 
 // Item
-$item-bg: $light-gray;
-$item-border: darken($item-bg, 8%);
-$item-text-color: darken($dark-gray, 20%);
+$item-border-width: 4px;
 
 // Page Content
 $page-content-sidebar-width: 30rem;
